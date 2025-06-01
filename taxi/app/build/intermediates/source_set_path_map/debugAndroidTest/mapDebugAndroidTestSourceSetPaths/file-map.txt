@@ -1,0 +1,4 @@
+com.example.taxiapp.test.app-androidTest-0 D:\lesson project\kotlin\taxi\app\build\generated\res\resValues\androidTest\debug
+com.example.taxiapp.test.app-mergeDebugAndroidTestResources-1 D:\lesson project\kotlin\taxi\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.taxiapp.test.app-mergeDebugAndroidTestResources-2 D:\lesson project\kotlin\taxi\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.taxiapp.test.app-debugAndroidTest-3 D:\lesson project\kotlin\taxi\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

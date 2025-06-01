@@ -1,0 +1,68 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="تسجيل بيانات السائق"
+            android:textSize="24sp"
+            android:layout_marginBottom="16dp"/>
+
+        <EditText
+            android:id="@+id/nameField"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="الاسم"/>
+
+        <EditText
+            android:id="@+id/phoneField"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="رقم الهاتف"/>
+
+        <EditText
+            android:id="@+id/whatsappField"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="رقم الواتساب"/>
+
+        <EditText
+            android:id="@+id/carNameField"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="اسم السيارة"/>
+
+        <EditText
+            android:id="@+id/carColorField"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="لون السيارة"/>
+
+        <EditText
+            android:id="@+id/carPlateField"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="رقم اللوحة"/>
+
+        <EditText
+            android:id="@+id/capacityField"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="سعة السيارة"/>
+
+        <Button
+            android:id="@+id/registerButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="تسجيل"/>
+
+    </LinearLayout>
+</ScrollView>
